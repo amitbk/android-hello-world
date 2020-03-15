@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
         view.setWebChromeClient(new WebChromeClient());
         view.setWebViewClient(new WebViewClient());
+        view.getSettings().setDomStorageEnabled(true);
         view.getSettings().setJavaScriptEnabled(true);
         view.loadUrl(myurl);
     }
