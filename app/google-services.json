@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719748228685",
+    "firebase_url": "https://helloworld-96fae.firebaseio.com",
+    "project_id": "helloworld-96fae",
+    "storage_bucket": "helloworld-96fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719748228685:android:d1da9bdc2f0d74a3285e04",
+        "android_client_info": {
+          "package_name": "com.flymit.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719748228685-1u1v9106icfdmmp9sncr3b026kcg2md6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flymit.helloworld",
+            "certificate_hash": "ea9afdaae0b9f62785ec8a36d613ab066f8c6cf7"
+          }
+        },
+        {
+          "client_id": "719748228685-ee6d63iq5rbuulkqfhv3vov7n0n8hgi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5RPsihIcpspRmgt7d-pZprQj-ZcO-NJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719748228685-ee6d63iq5rbuulkqfhv3vov7n0n8hgi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
