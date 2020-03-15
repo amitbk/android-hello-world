@@ -15,7 +15,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        String myurl = "http://amazon.in";
+        //String myurl = "http://amazon.in";
+        String myurl = "file:///android_asset/index.html";
         view = (WebView) this.findViewById(R.id.webView);
 
         view.setWebChromeClient(new WebChromeClient());
