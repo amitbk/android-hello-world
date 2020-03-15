@@ -4,7 +4,14 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
 
-    <WebView android:id="@+id/webView"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|fill|center_vertical"
+        android:text="Amit Kadam"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 </LinearLayout>
